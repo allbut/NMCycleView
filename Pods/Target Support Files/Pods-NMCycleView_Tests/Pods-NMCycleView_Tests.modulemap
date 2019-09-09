@@ -1,0 +1,6 @@
+framework module Pods_NMCycleView_Tests {
+  umbrella header "Pods-NMCycleView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

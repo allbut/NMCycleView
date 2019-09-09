@@ -1,0 +1,16 @@
+PODS:
+  - NMCycleView (0.1.0)
+
+DEPENDENCIES:
+  - NMCycleView (from `../`)
+
+EXTERNAL SOURCES:
+  NMCycleView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NMCycleView: 918dbd9c6692a38990b87e8f753255b7c4f662fb
+
+PODFILE CHECKSUM: 7c255f5b8f08187120bbff3c18f5c879a5b67f3a
+
+COCOAPODS: 1.6.1
